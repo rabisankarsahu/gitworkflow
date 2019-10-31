@@ -1,4 +1,4 @@
-//Version 1.0
+//Version 1.0.1
 
 class calculator {
 
@@ -12,6 +12,10 @@ return a-b;
 
 public int multiply(int a, int b) {
 return a*b;
+}
+
+public void hotfix1() {
+System.out.println(" Hotfix 1");
 }
 
 }
