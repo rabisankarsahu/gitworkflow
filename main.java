@@ -18,4 +18,8 @@ public void hotfix1() {
 System.out.println(" Hotfix 1");
 }
 
+public int division(int a, int b) {
+ireturn a/b;
+}
+
 }
